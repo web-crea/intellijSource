@@ -1,0 +1,9 @@
+BIN trash;
+
+trash {{yr2,xr2}}
+
+give{trash{100KiB}}
+
+pass::st::debug{
+  --snip--
+}
