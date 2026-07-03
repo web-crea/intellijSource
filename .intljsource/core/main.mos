@@ -13,7 +13,7 @@
         ###init
       {^list}
       MOSPROJ proj;
-      proj:::YSS
+      proj:::use(yss.mos)
     }
     proj:::run[,USAGE='MOS']
   {^codebody}
