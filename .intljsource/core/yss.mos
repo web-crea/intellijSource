@@ -1,0 +1,10 @@
+{mos-crea, web-creaCA100}
+
+{uncommon}
+{py}
+"""
+yss is now enabled when you look at this file.
+Re-looking at it will cause yss disabled.
+"""
+{^py}
+{^uncommon}
