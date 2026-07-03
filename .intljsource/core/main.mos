@@ -1,0 +1,22 @@
+{mos-crea, web-creaCA100}
+
+{mos}
+  {divisions}
+  mosprod[,USAGE]
+  mosproj[,PROJECT-NAME, USAGE, PASSWORD]
+  {^divisions}
+  {codebody}
+    {
+      mosprod MOSPROD;
+      mosproj MOSPROJ;
+      {list}
+        ###init
+      {^list}
+      MOSPROJ proj;
+      proj:::YSS
+    }
+    proj:::run[,USAGE='MOS']
+  {^codebody}
+{^mos}
+
+{--Thanks for looking at my code!}
