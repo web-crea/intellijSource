@@ -1,0 +1,6 @@
+%% dotting DOTCOM;%%
+
+trywhen(DOTCOM=non)[
+  epass
+]
+;;
