@@ -1,0 +1,15 @@
+###<stack>
+
+use(main.mos)
+
+mosprod MOSPROD;
+MOSPROD stacker[%%m%%stack];
+
+ind=false
+isin=false
+wisn=false
+
+stacker.stack(_isin_.true)
+stacker.del(_isin_)
+
+%%modend%%
