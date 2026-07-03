@@ -1,0 +1,15 @@
+###use(main.mos)
+
+intellijsource:::.intljsource:::code:::\\
+
+{
+  :::
+  {--Empty CodeSpace for stashing}
+
+
+  :::
+}
+
+run:::stash.mosh
+[[[MOSX mosx]]]
+;;;
