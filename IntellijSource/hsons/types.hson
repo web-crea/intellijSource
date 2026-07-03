@@ -1,0 +1,23 @@
+So, file types are these:
+
+.hson:
+--The one that brings help.
+--The one you should see.
+
+.md:
+--The one that I made jokes inside(except README.md!) and tips.
+
+.py:
+--The core.
+--The one you shouldn't open.
+
+.explain:
+--The one that explains the folders.
+
+.help:
+--The help files.
+
+.mos:
+--The main coe of the project(locations: .intjsource/core/xxx.mos)
+
+Thanks!:)
